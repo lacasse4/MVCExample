@@ -10,6 +10,11 @@ import java.awt.EventQueue;
  * @author Vincent Lacasse
  *
  */
+
+/*
+ Simple change added
+*/
+
 public class Demo {
 	
 	public static void main(String[] args) {
