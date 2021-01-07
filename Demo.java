@@ -4,7 +4,7 @@ import java.awt.EventQueue;
 
 /**
  * Démonstration de l'architecture MVC avec un programme simple
- * Les outils du Java API (classe Observable et interface Observer)
+ * Les outils du Java API
  * sont utilisés.
  * 
  * @author Vincent Lacasse
