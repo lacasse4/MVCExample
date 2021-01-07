@@ -3,7 +3,6 @@
 import java.awt.Color;
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
-import java.util.Observable;
 
 /**
  * Données de l'application.
