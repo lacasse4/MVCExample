@@ -3,8 +3,8 @@
 import java.awt.EventQueue;
 
 /**
- * Démonstration de l'architecture MVC avec un programme simple
- * Les outils du Java API
+ * Démonstration de l'architecture MVC avec un programme simple.
+ * Les outils du Java API java.beans.PropertyChangeSupport
  * sont utilisés.
  * 
  * @author Vincent Lacasse
