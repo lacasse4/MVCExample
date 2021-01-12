@@ -11,9 +11,6 @@ import java.awt.EventQueue;
  *
  */
 
-/* ceci est un changement
-*/
-
 public class Demo {
 	
 	public static void main(String[] args) {
