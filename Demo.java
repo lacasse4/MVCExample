@@ -2,6 +2,9 @@
 
 import java.awt.EventQueue;
 
+/* ceci est un changement pour demontrer la fonction de Git
+*/
+
 /**
  * Démonstration de l'architecture MVC avec un programme simple.
  * Les outils du Java API java.beans.PropertyChangeSupport
